@@ -6,6 +6,7 @@ wichtige Bereiche der Java-Programmierung geben. Dabei sollen die Konzepte anhan
 ## Lernmaterialien
 
 Die Lernmaterialien sind zum Selbststudium und Nachschlagen da. Einmal auf deutsch (z. B. Java ist auch eine Insel) und einmal auf englisch (z. B. Oracle Java Tutorials).
+Bei den Übungen sind immer die zugehörigen Kapitel in den Lernmaterialien verlinkt - sichtbar am `-->` hinter den Übungstiteln.
 
 - [Java ist auch eine Insel - Openbook](https://openbook.rheinwerk-verlag.de/javainsel/)
 - [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
@@ -27,17 +28,17 @@ Die Lernmaterialien sind zum Selbststudium und Nachschlagen da. Einmal auf deuts
   - Was bedeuten JRE, JDK und JVM?
 
 ### Einstiegsprojekt: Einfacher Taschenrechner
-- Primitive Datentypen --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_003.html#u2.3.1) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-- Schleifen (for, while) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_006.html#u2.6) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-- Konditionale Strukturen (if, switch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_005.html#u2.5) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-- Methoden --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_007.html#u2.7) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
-- Error Handling (try-catch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/08_001.html#u8) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
-- Klassen --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_002.html#u2.2.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-- Access Modifier --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/06_002.html#u6.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-- Objekte --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/03_004.html#u3.4) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
+- [01 - Primitive Datentypen](01-primitive-datatypes.md) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_003.html#u2.3.1) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+- 02 - Schleifen (for, while) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_006.html#u2.6) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
+- 03 - Konditionale Strukturen (if, switch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_005.html#u2.5) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
+- 04 - Methoden --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_007.html#u2.7) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+- 05 - Error Handling (try-catch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/08_001.html#u8) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+- 06 - Klassen --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_002.html#u2.2.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+- 07 - Access Modifier --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/06_002.html#u6.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- 08 - Objekte --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/03_004.html#u3.4) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
   - Was ist der Unterschied zwischen primitiven Datentypen und Klassentypen?
   - Wie hängen Klassen und Objekte zusammen?
-- *Rückblick: BigDecimal* für genaue Berechnung
+- 09 - *Rückblick: BigDecimal* für genaue Berechnung
 
 ### Projekt: Mitarbeiter Management System
 - Datenbankzugriffe
