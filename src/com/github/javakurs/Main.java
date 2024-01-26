@@ -7,9 +7,9 @@ package com.github.javakurs;
  * Bei den weiteren Übungen werden neue Klassen angelegt und das Projekt entwickelt und verändert sich im Verlauf
  * des Kurses immer weiter
  */
-public class Main {
+public class Main { //Deklaration der Klasse
 
-    public static void main(String[] args) {
-        // Hier müssen die ersten Übungen implementiert werden
+    public static void main(String[] args) { //Deklaration der Methode(Methodensignatur)
+        System.out.println("Hello World"); //Was die Methode macht
     }
 }
