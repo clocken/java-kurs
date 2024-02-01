@@ -28,24 +28,24 @@ Bei den Übungen sind immer die zugehörigen Kapitel in den Lernmaterialien verl
   - Was bedeuten JRE, JDK und JVM?
 
 ### Einstiegsprojekt: Einfacher Taschenrechner
-- [01 - Primitive Datentypen](01-primitive-datatypes.md) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_003.html#u2.3.1) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-- 02 - Schleifen (for, while) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_006.html#u2.6) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-- 03 - Konditionale Strukturen (if, switch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_005.html#u2.5) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
-- 04 - Methoden --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_007.html#u2.7) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
-- 05 - Error Handling (try-catch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/08_001.html#u8) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
-- 06 - Klassen --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_002.html#u2.2.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-- 07 - Access Modifier --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/06_002.html#u6.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-- 08 - Objekte --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/03_004.html#u3.4) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
+- [Übung 01 - Primitive Datentypen](01-primitive-datatypes.md) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_003.html#u2.3.1) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+- [Übung 02 - Schleifen (for, while)](02-loops.md) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_006.html#u2.6) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
+- Übung 03 - Konditionale Strukturen (if, switch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_005.html#u2.5) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
+- Übung 04 - Methoden --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_007.html#u2.7) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+- Übung 05 - Error Handling (try-catch) --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/08_001.html#u8) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+- Übung 06 - Klassen --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/02_002.html#u2.2.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+- Übung 07 - Access Modifier --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/06_002.html#u6.2) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- Übung 08 - Objekte --> [in Java ist auch eine Insel](https://openbook.rheinwerk-verlag.de/javainsel/03_004.html#u3.4) und [im Oracle Trail](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
   - Was ist der Unterschied zwischen primitiven Datentypen und Klassentypen?
   - Wie hängen Klassen und Objekte zusammen?
-- 09 - *Rückblick: BigDecimal* für genaue Berechnung
+- Übung 09 - *Rückblick: BigDecimal* für genaue Berechnung
 
 ### Projekt: Mitarbeiter Management System
-- Datenbankzugriffe
+- Übung 10 - Datenbankzugriffe
   - Hello Database
-- GUIs (Graphical User Interfaces) mit Swing
+- Übung 11 - GUIs (Graphical User Interfaces) mit Swing
   - Hello Swing
-- Zusammenführung der beiden Teile
+- Übung 12 - Zusammenführung der beiden Teile
   - tabellarische Anzeige der Mitarbeiterdaten
   - ändern der Daten eines Mitarbeiters
   - hinzufügen eines neuen Mitarbeiters
